@@ -16,3 +16,4 @@ Los datos utilizados en este proyecto provienen de un archivo CSV que contiene i
 
 La visualización final consiste en un gráfico de donut que muestra las 20 poblaciones más grandes del mundo en el año 2023. Cada porción de la donut representa la población de un país específico, y se etiqueta con el nombre del país correspondiente. El gráfico proporciona una representación clara y concisa de la distribución de la población mundial, destacando los países con las poblaciones más grandes en ese año.
 
+![Gráfico de donut](https://github.com/nsanced/poblacion-mundial-2023/blob/main/grafico_donut_poblacion_mundial_2023.png)
